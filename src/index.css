@@ -1,0 +1,11 @@
+*{
+  margin:0
+}
+@font-face {
+  font-family: "BN";
+  src: url("./assets/font/bebasNue/BebasNeue-Regular.ttf");
+}
+@font-face {
+  font-family: "KO";
+  src: url("./assets/font/krona/KronaOne-Regular.ttf");
+}
